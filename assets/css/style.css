@@ -26,7 +26,7 @@ textarea{
 }
 
 .time-block{
-  text-align: center;
+  text-align: right;
   border-radius: 15px;
 }
 
@@ -34,6 +34,11 @@ textarea{
   white-space: pre-wrap;
   height: 80px;
   border-top: 1px solid white;;
+}
+
+span {
+  border-top: 1px dashed #000000;
+  padding-top: 15px;
 }
 
 .hour {
