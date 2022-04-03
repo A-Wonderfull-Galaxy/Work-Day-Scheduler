@@ -1,5 +1,5 @@
 # Work Day Scheduler Starter Code
-This software allows you to plan out the day in a scheduler. When the box is in green, you can add a task. When the box is red you cannot add a task. when the box is gray you too early or late.
+This software allows you to plan out the day in a scheduler. When the box is in green, you can add a task. When the box is red, thats the current time and you cannot add a task. when the box is gray you are too late.
 
 
 # What you need?
